@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
+// this is a component that passed the requirements to be scanned
 @Component
 public class SedanCar implements Car {
 	
